@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/C16GI-React/static/css/main.6cc27568.css",
+    "main.js": "/C16GI-React/static/js/main.86374104.js",
+    "index.html": "/C16GI-React/index.html",
+    "main.6cc27568.css.map": "/C16GI-React/static/css/main.6cc27568.css.map",
+    "main.86374104.js.map": "/C16GI-React/static/js/main.86374104.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6cc27568.css",
+    "static/js/main.86374104.js"
+  ]
+}
