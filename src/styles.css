@@ -1,0 +1,59 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f9f9f9;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 4%;
+  color: rgb(241, 94, 118);
+}
+
+div {
+  margin: 0 auto;
+  max-width: 90vw;
+}
+
+div > p {
+  margin: 1%;
+  color: rgb(233, 127, 145);
+}
+
+.people {
+  border: 1px solid rgba(231, 89, 153, 0.4);
+  margin-top: 3%;
+  border-radius: 5px;
+}
+
+.people:hover {
+  transform: scale(1.02);
+  transition: 0.5s;
+  background-color: rgba(194, 147, 239, 0.582);
+  border: 1px solid rgb(205, 120, 221);
+}
+
+div > p:hover {
+  color: white;
+  cursor: pointer;
+}
+
+#contact {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2%;
+  font-size: 1.2rem;
+  border: none;
+  border-radius: 2px;
+  padding: 1%;
+  color: purple;
+  background-color: rgba(194, 147, 239, 0.383);
+  cursor: pointer;
+}
+
+#contact:hover {
+  /* transform: scale(1.02);
+  transition: 0.5s; */
+  color: white;
+  background-color: rgba(128, 0, 128, 0.54);
+}
